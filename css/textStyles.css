@@ -1,7 +1,29 @@
-.sparrowCentered {
-    position: absolute;
+.centered {
+    position: absolute;;
     top: 20%;
-    left: 50%;
-    transform: translate(-20%, -50%);
+    left: 35%;
+    transform: translate(-20%, -35%);
+    font-size: 150pt !important;
+}
+
+.sparrow {
     color: #000000;
+}
+
+.badNames_bad{
+    position: absolute;;
+    top: 20%;
+    left: 40%;
+    transform: translate(-20%, -40%);
+    font-size: 150pt !important;
+    color: #9b0a19
+}
+
+.badNames_good{
+    position: absolute;;
+    top: 20%;
+    left: 35%;
+    transform: translate(-20%, -35%);
+    font-size: 150pt !important;
+    color: #29893e
 }
