@@ -9,6 +9,23 @@
 .sparrow {
     color: #ffffff;
 }
+.longMethods_shortEnough{
+    position: absolute;;
+    top: 20%;
+    left: 28%;
+    transform: translate(-20%, -35%);
+    font-size: 100pt !important;
+    color: #29893e
+}
+
+.longMethods_tooLong{
+    position: absolute;;
+    top: 20%;
+    left: 33%;
+    transform: translate(-20%, -40%);
+    font-size: 100pt !important;
+    color: #9b0a19
+}
 
 .clutter{
     position: absolute;;
