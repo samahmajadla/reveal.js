@@ -10,6 +10,25 @@
     color: #ffffff;
 }
 
+.clutter{
+    position: absolute;;
+    top: 20%;
+    left: 34%;
+    transform: translate(-20%, -40%);
+    font-size: 150pt !important;
+    color: #9b0a19
+}
+
+
+.clutter_relevant{
+    position: absolute;;
+    top: 20%;
+    left: 28%;
+    transform: translate(-20%, -35%);
+    font-size: 150pt !important;
+    color: #29893e
+}
+
 .badNames_bad{
     position: absolute;;
     top: 20%;
