@@ -9,7 +9,7 @@
 .sparrow {
     color: #ffffff;
 }
-.longMethods_shortEnough{
+.shortEnough{
     position: absolute;;
     top: 20%;
     left: 28%;
@@ -18,7 +18,7 @@
     color: #29893e
 }
 
-.longMethods_tooLong{
+.tooLong{
     position: absolute;;
     top: 20%;
     left: 33%;
